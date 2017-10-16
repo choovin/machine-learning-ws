@@ -48,7 +48,7 @@ def numpy_dot():
     print 'olympic_medal_counts'
     olympic_medal_counts = {'country_name': Series(countries), 'gold': Series(gold), 'silver': Series(silver), 'bronze': Series(bronze)}
 
-    print olympic_medal_counts
+    # print olympic_medal_counts
     # YOUR CODE HERE
     print 'olympic_medal_counts_df'
     olympic_medal_counts_df = DataFrame(olympic_medal_counts)

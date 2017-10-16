@@ -43,5 +43,10 @@ def avg_medal_count():
 
     # YOUR CODE HERE
     avg_medal_count = numpy.mean(df)
+    print avg_medal_count
 
     return avg_medal_count
+
+if __name__ == "__main__":
+    avg_medal_count()
+    print "hello"
