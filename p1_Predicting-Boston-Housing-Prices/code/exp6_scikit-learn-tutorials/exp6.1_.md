@@ -11,3 +11,6 @@
 在即将开始的“监督式机器学习”课程中，我们会更详细地介绍朴素贝叶斯以及其他有用的受监督模型，并运用我们在本课程中学到的知识评估每个模型的优缺点。
 如果想提前了解一下朴素贝叶斯，请查看此链接：
 http://scikit-learn.org/stable/modules/naive_bayes.html
+
+
+> *NOTE*: [sklearn学习(1) 数据集](http://blog.csdn.net/yuanyu5237/article/details/44278759)

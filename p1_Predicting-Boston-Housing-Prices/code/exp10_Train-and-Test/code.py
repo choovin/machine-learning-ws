@@ -15,6 +15,7 @@ iris = datasets.load_iris()
 features = iris.data
 labels = iris.target
 
+# TODO
 print features
 print labels
 
